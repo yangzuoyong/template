@@ -5,7 +5,7 @@ import com.gupaoedu.vip.template.DoDishTemplate;
 import com.gupaoedu.vip.template.EggsWithTomato;
 import org.junit.Test;
 /***
- *模板设计的实现方式：继承，静态代理
+ *模板设计的实现方式：继承，静态代理(作业)
  * @author : GP12713
  * @date : 2019/3/18
  */
